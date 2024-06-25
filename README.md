@@ -1,7 +1,7 @@
 # Movie App
 
 This is a movie app built using React and Vite. The application allows users to browse and search for movies, view details about each movie, and more.
-
+Use this app (vercel)- https://movie-app-vert-psi.vercel.app/
 
 ## Installation
 
